@@ -90,19 +90,19 @@ Here's an explanation of what each of these fields typically signifies in a cust
 
    2. a. **Could dissatisfaction with customer service be contributing to inactivity?** (*Customer Satisfaction and Service Improvement*)
 
-   - **Objective**:  Assess the reltionship between number of calls placed across t the customer service and the percentage of which are attrited customers.
+   - **Objective**:  Assess the relationship between several calls placed across the customer service and the percentage of which are attrited customers.
 
    
 
-3. **Which inactive customers are high risk and should be excluded and which are wrth targeting?** (*High-Risk Customer Identification and Exclusion*)
+3. **Which inactive customers are high risk and should be excluded and which are worth targeting?** (*High-Risk Customer Identification and Exclusion*)
 
-  - **Objective**: Identify high-risk customers based on the use of their credit limit. An ideal meanusrement will be: avg_use > credit_limit - (credit_limit * 0.30) or where the avg_utilization_ration < 30 (*Standard practice is to not use more than 30% of the credit limit*)
+  - **Objective**: Identify high-risk customers based on the use of their credit limit. An ideal measurement will be: avg_use > credit_limit - (credit_limit * 0.30) or where the avg_utilization_ration < 30 (*Standard practice is to not use more than 30% of the credit limit*)
 
      
 
 4. **How can we ensure we retain our most engaged customers?** (*Retention of Highly Engaged Customers*)
 
-    - **Objective**: Identify the services our existing customers are engaged with. How can we ensure we keep them constantly engaged based on their demographs- so we do not lose them?
+    - **Objective**: Identify the services our existing customers are engaged with. How can we ensure we keep them constantly engaged based on their demographics- so we do not lose them?
  
 
 ##### Based on the question, the libraries used were: Pandas, Numpy, Seaborn, Matplotlib
@@ -120,10 +120,10 @@ Here's an explanation of what each of these fields typically signifies in a cust
 
    - **Education & Attrition:** The data suggests that attrited customers are generally less educated and belong more heavily to the low-income group. Existing customers in the middle-income and high-income categories have higher educational backgrounds. 
 
-##### 2. **What is the demograph of the inactive users and how constituted the major reason for their attrition?** 
+##### 2. **What are the demographics of the inactive users and how constituted the major reason for their attrition?** 
 
    - **Inactive User Demographics:** Inactive users are distributed across various age groups and income categories. Both low and middle-income earners have substantial numbers of inactive users. However, the high-income earners show a larger portion of customers who have been inactive, particularly in the age range of 61-70.  
-   - **Reasons for Attrition:** The primary reasons for attrition appear to be account closures and potentially dissatisfaction with customer service, as the data reveals that attrited customers tend to contact customer service multiple times (averaging 3 contacts). However, despite reaching out, these customers were not satisfied with the support they received, which could have contributed to their decision to leave.  
+   - **Reasons for Attrition:** The primary reasons for attrition appear to be account closures and potential dissatisfaction with customer service, as the data reveals that attrited customers tend to contact customer service multiple times (averaging 3 contacts). However, despite reaching out, these customers were not satisfied with the support they received, which could have contributed to their decision to leave.  
 
 ##### **Could dissatisfaction with customer service be contributing to inactivity?** 
 
@@ -151,10 +151,10 @@ Here's an explanation of what each of these fields typically signifies in a cust
 
 ### **General Recommendation and Actions to the Business Manager:**
 
-- **<span style="color:#87ceeb;">Customer Service Improvements:</span>** Focus on continuous service enhancements and customer experience. Attrited customers had multiple interactions with customer service (averaging 3 contacts) but did not receive satisfactory resolutions, leading to their decision to leave. The KPI for the cutsomer sevice should refelct retaing customers and a course to re-orinetate them on how to better manage issues from customers- _for the HR department._
+- ** 📞Customer Service Improvements:** Focus on continuous service enhancements and customer experience. Attrited customers had multiple interactions with customer service (averaging 3 contacts) but did not receive satisfactory resolutions, leading to their decision to leave. The KPI for customer service should reflect retaining customers and a course to re-orientate them on how to better manage issues from customers- _for the HR department._
  
-- **<span style="color:#87ceeb;">High-Risk Exclusion & Targeting:</span>** Customers who regularly exceed the 30% credit utilization threshold were excluded from re-engagement efforts to help the marketing team focus on this set for customer reactivation. _for the HR department._
+- ** 🚫 High-Risk Exclusion & Targeting:** Customers who regularly exceed the 30% credit utilization threshold were excluded from re-engagement efforts to help the marketing team focus on this set for customer reactivation. _for the HR department._
 
-- **<span style="color:#87ceeb;">Retention Strategy:</span>**  We have some existing customers whose months of inactivities are same as those attrited. To retain existingd customers- we can achieve this by providing personalized offers and targeted financial products based on their demographic needs and credit usage patterns. The data showed that services 3-5 were mostly used. Where these numbers are indicative of encoded services- we amy want to double-down on these services as our selling points. However, where these numbers are in fact the frequency of the services- we may have t get the data from the product team to know for a fact which services fall within these frequncy count. _for the HR department._
+- ** 🔄 Retention Strategy:**  We have some existing customers whose months of inactivities are the same as those attrited. To retain existing customers- we can achieve this by providing personalized offers and targeted financial products based on their demographic needs and credit usage patterns. The data showed that services 3-5 were mostly used. Where these numbers are indicative of encoded services- we may want to double down on these services as our selling points. However, where these numbers are the frequency of the services- we may have to get the data from the product team to know for a fact which services fall within these frequency counts. _for the HR department._
 
 
