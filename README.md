@@ -7,7 +7,7 @@
 
 **Customer Churn Analysis: A First Data Exploration and Preprocessing Project**
 
-This project is part of my coursework at CodeOp, where I analyze and preprocess customer churn data from a consumer credit card portfolio. The objective is to support a business manager focused on reducing customer attrition by identifying data patterns that may explain why customers are leaving. Though I've worked on other personal projects, this is my first real-world data analysis project within the bootcamp. It marks a significant step in my learning journey at CodeOp and showcases my growing skills in data science.
+This project is part of my coursework at CodeOp, where I analyze and preprocess customer churn data from a consumer credit card portfolio. The objective is to support a business manager focused on reducing customer attrition by identifying data patterns that may explain why customers are leaving. Though I've worked on other personal projects, this is my first real-world data analysis project within the boot camp. It marks a significant step in my learning journey at CodeOp and showcases my growing skills in data science.
 
 
 
